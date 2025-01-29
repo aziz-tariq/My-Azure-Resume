@@ -1,4 +1,4 @@
-# Your frontend live here
+# Your app live here
 
 ## Steps
 
